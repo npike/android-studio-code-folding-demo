@@ -13,5 +13,9 @@ internal class RegionKotlinDemo : EditorFoldKotlinDemo() {
     override fun helloWorld() {
         System.out.println(lastName)
     }
+
+    fun helloWorld2() {
+        System.out.println(lastName)
+    }
     //endregion
 }
